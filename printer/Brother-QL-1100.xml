@@ -63,7 +63,7 @@ USA
       <enum_val id="ev/300x600dpi" />
     </option>
     <option id="opt/Brother-PTQL-BytesPerLine">
-      <enum_val id="ev/90" />
+      <enum_val id="ev/162" />
     </option>
     <option id="opt/Brother-PTQL-PixelTransfer">
       <enum_val id="ev/RLE" sense="false" />
@@ -71,5 +71,11 @@ USA
     </option>
     <option id="opt/Brother-PTQL-AutoCut" />
     <option id="opt/Brother-PTQL-CutLabel" />
+    <option id="opt/Brother-QL-PageSize">
+      <arg_defval>ev/102x152</arg_defval>
+      <enum_val id="ev/102x152" />
+      <enum_val id="ev/102x51" />
+      <enum_val id="ev/102mm" />
+    </option>
   </select>
 </printer>
