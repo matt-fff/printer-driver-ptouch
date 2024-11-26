@@ -42,6 +42,7 @@ PRINTERS			= printer/Brother-QL-500.xml \
 				  printer/Brother-QL-800.xml \
 				  printer/Brother-QL-810W.xml \
 				  printer/Brother-QL-820NWB.xml \
+				  printer/Brother-QL-1100c.xml \
 				  printer/Brother-PT-PC.xml \
 				  printer/Brother-PT-18R.xml \
 				  printer/Brother-PT-550A.xml \
